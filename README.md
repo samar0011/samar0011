@@ -18,10 +18,10 @@
 
 <div align="center">
 <!--   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> -->
-  <a href="https://leetcode.com/walleeva2018/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  <a href="https://linkedln.com/walleeva2018/"><img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-  <a href="https://codeforces.com/walleeva2018/"><img src ="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
-  <a href="https://codeforces.com/walleeva2018/"><img src ="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white">
+  <a href="https://www.linkedin.com/in/samarjeet-kumar-8236a0196/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  <a href="https://leetcode.com/hackmeup098/"><img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  <a href="https://codeforces.com/profile/rocksamar496"><img src ="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+  <a href="https://auth.geeksforgeeks.org/user/samar001123"><img src ="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white">
   
   
 </div>
