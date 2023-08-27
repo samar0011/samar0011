@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" alt="Github" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="230px" width="230px" />
+<img align="right" alt="Github" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="210px" width="210px" />
 
 
 <h3 align="left">👩‍💻  About Me</h3>
