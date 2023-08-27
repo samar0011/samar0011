@@ -11,7 +11,7 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Samarjeet+Kumar;I+am+a+Software+Engineer,;Full+stack+Developer;Fitness+freak"></a>
 </p>
 <div align="center" >
-  <img height="250" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="margin-top: -100px" />
+  <img height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
 </div>
 
 <h3 align ="center">My Profiles:</h3>
